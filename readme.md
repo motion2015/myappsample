@@ -1,2 +1,5 @@
 # myapp
-This is my app
+= Leaning Javascript, 3rd Edition
+== Chapter 2: Javascript Development Tools
+
+In this chapter we're learning about Git and other development tools.
